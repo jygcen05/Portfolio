@@ -1,55 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Jigme Wangchuk – Forestry & Conservation</title>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-<style>
-/* Reset & base styles */
-* { margin:0; padding:0; box-sizing:border-box; }
-body { font-family:'Roboto', sans-serif; color:#333; line-height:1.6; background:#f5f5f5; }
-a { text-decoration:none; color:#2a5d34; }
-a:hover { text-decoration:underline; }
-
-/* Header / Hero */
-header { background:#2a5d34; color:#fff; padding:60px 20px; text-align:center; }
-header h1 { font-size:2.5rem; margin-bottom:10px; }
-header p { font-size:1.1rem; margin-bottom:15px; }
-header .btn { display:inline-block; padding:10px 20px; background:#fff; color:#2a5d34; border-radius:5px; font-weight:bold; transition:0.3s; }
-header .btn:hover { background:#e0e0e0; }
-
-/* Navigation */
-nav { background:#3a7a49; display:flex; justify-content:center; flex-wrap:wrap; }
-nav a { padding:15px 25px; color:#fff; font-weight:500; transition:0.3s; }
-nav a:hover { background:#2a5d34; }
-
-/* Sections */
-section { padding:60px 20px; max-width:1000px; margin:auto; background:#fff; margin-bottom:20px; border-radius:10px; box-shadow:0 3px 10px rgba(0,0,0,0.05); }
-section h2 { color:#2a5d34; border-bottom:2px solid #2a5d34; padding-bottom:5px; margin-bottom:20px; }
-
-/* Grid for projects / skills */
-.grid { display:grid; grid-template-columns:1fr 1fr; gap:20px; }
-.project-card { background:#f9f9f9; padding:20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1); transition:transform 0.3s; }
-.project-card:hover { transform:translateY(-5px); }
-.project-card img { width:100%; border-radius:8px; margin-bottom:15px; }
-.project-card h3 { margin-bottom:10px; }
-
-/* Skills */
-.skills ul { display:grid; grid-template-columns:1fr 1fr; gap:20px; list-style:none; padding-left:0; }
-.skills li { background:#e0f0e3; padding:10px 15px; border-radius:5px; margin-bottom:10px; }
-
-/* Contact */
-.contact a { color:#2a5d34; font-weight:bold; }
-
-/* Footer */
-footer { text-align:center; padding:20px; background:#3a7a49; color:#fff; }
-
-/* Responsive */
-@media (max-width:768px) {
-    .grid, .skills ul { grid-template-columns:1fr; }
-}
-</style>
 </head>
 <body>
 

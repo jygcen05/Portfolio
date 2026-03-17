@@ -87,7 +87,8 @@
 
 <header>
     <h1>JIGME WANGCHUK</h1>
-    <p>Senior Forestry Officer | Forest Fire and Pest Management Section | Forest Resources Planning and Management Division | Department of Forests and Park Services </p>
+    <p>Senior Forestry Officer | Forest Fire and Pest Management Section </p>
+    <p>Forest Resources Planning and Management Division, Department of Forests and Park Services </p>
     <p>Thimphu, Bhutan | +975 77385897 | <a href="mailto:jigmewangchuk@moenr.gov.bt" class="contact">Email</a></p>
     <p><a href="#" class="contact">LinkedIn</a> | <a href="#" class="contact">ResearchGate</a></p>
 </header>

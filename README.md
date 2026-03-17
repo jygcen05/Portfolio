@@ -55,7 +55,7 @@ footer { text-align:center; padding:20px; background:#3a7a49; color:#fff; }
 
 <header>
 <h1>Jigme Wangchuk</h1>
-<p>Senior Forestry Officer | Biodiversity & Conservation Specialist</p>
+<p>Senior Forestry Officer | Department of Forests and Park Services</p>
 <a href="Jigme_Wangchuk_CV.pdf" class="btn" download>Download CV</a>
 </header>
 

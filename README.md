@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jigme Wangchuk – Forestry & Conservation Portfolio</title>
+    <title>JIGME WANGCHUK – FORESTRY AND CONSERVATION PORTFOLIA</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
@@ -86,8 +86,8 @@
 <body>
 
 <header>
-    <h1>Jigme Wangchuk</h1>
-    <p>Senior Forestry Officer | Biodiversity & Conservation Specialist</p>
+    <h1>JIGME WANGCHUK</h1>
+    <p>Senior Forestry Officer | Forest Fire and Pest Management Section | Forest Resources Planning and Management Division | Department of Forests and Park Services </p>
     <p>Thimphu, Bhutan | +975 77385897 | <a href="mailto:jigmewangchuk@moenr.gov.bt" class="contact">Email</a></p>
     <p><a href="#" class="contact">LinkedIn</a> | <a href="#" class="contact">ResearchGate</a></p>
 </header>

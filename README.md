@@ -70,7 +70,7 @@ footer { text-align:center; padding:20px; background:#3a7a49; color:#fff; }
 
 <section id="about">
 <h2>About Me</h2>
-<p>Forestry and conservation leader specializing in biodiversity conservation, forest fire resilience, and ecosystem management in Bhutan. Experienced in policy implementation, inter-agency coordination, GIS, remote sensing, and field-based monitoring. Passionate about sustainable forest management, high conservation value areas, and community empowerment for ecological stewardship.</p>
+<p>Forestry and conservation professional specializing in biodiversity conservation, forest fire resilience, and ecosystem management in Bhutan. Experienced in policy implementation, inter-agency coordination, GIS, remote sensing, and field-based monitoring. Passionate about sustainable forest management, high conservation value areas, and community empowerment for ecological stewardship.</p>
 </section>
 
 <section id="research">
